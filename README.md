@@ -1,114 +1,125 @@
-# JAVA_programming_language
-<h2>🔥 Day 1-8: Java Plan</h2>
+# 🧠 Java Mastery in 8 Days
 
-📌 Day 1: OOP Foundations + Java Basics
-Topics:
+A focused 8-day journey to strengthen Java fundamentals, OOP, collections, concurrency, and prep for DSA.
 
-Classes/Objects, Inheritance, Polymorphism (Method Overriding vs Overloading)
+---
 
-static vs final, Constructors, Encapsulation
-Coding:
+## 📌 Day 1: OOP Foundations + Java Basics
 
-Create a class hierarchy (e.g., Animal → Cat/Dog)
+**Topics:**
+- Classes/Objects, Inheritance, Polymorphism (Method Overriding vs Overloading)
+- `static` vs `final`, Constructors, Encapsulation
 
-Implement method overriding
-Feynman Task: Explain polymorphism using emojis 🐕→Animal, 🐈→Animal
+**Coding:**
+- Create a class hierarchy (e.g., `Animal → Cat/Dog`)
+- Implement method overriding
 
-📌 Day 2: Collections Framework (List/Set/Queue)
-Topics:
+**Feynman Task:**  
+Explain polymorphism using emojis → 🐕 → `Animal`, 🐈 → `Animal`
 
-ArrayList vs LinkedList, HashSet vs TreeSet, PriorityQueue
+---
 
-Iterators (Iterator, ListIterator)
-Coding:
+## 📌 Day 2: Collections Framework (List/Set/Queue)
 
-Reverse a List without Collections.reverse()
+**Topics:**
+- `ArrayList` vs `LinkedList`, `HashSet` vs `TreeSet`, `PriorityQueue`
+- Iterators (`Iterator`, `ListIterator`)
 
-Remove duplicates from ArrayList
-Pro Tip: Visualize collections as 📦(ArrayList) vs 🚂(LinkedList)
+**Coding:**
+- Reverse a List without `Collections.reverse()`
+- Remove duplicates from `ArrayList`
 
-📌 Day 3: HashMap & Concurrent Collections
-Topics:
+**Pro Tip:**  
+Visualize collections as 📦 (`ArrayList`) vs 🚂 (`LinkedList`)
 
-Hashing mechanism, collision handling, LinkedHashMap
+---
 
-ConcurrentHashMap vs synchronizedMap
-Coding:
+## 📌 Day 3: HashMap & Concurrent Collections
 
-Implement a simplified HashMap with put()/get()
+**Topics:**
+- Hashing mechanism, collision handling, `LinkedHashMap`
+- `ConcurrentHashMap` vs `synchronizedMap`
 
-Simulate a thread-safe cache
-Feynman Task: Teach hashing using a library book analogy (ISBN = hashcode)
+**Coding:**
+- Implement a simplified `HashMap` with `put()` / `get()`
+- Simulate a thread-safe cache
 
-📌 Day 4: Multithreading & Concurrency
-Topics:
+**Feynman Task:**  
+Teach hashing using a library book analogy → ISBN = hashcode
 
-Thread vs Runnable, synchronized, volatile
+---
 
-Thread pools (ExecutorService), Future
-Coding:
+## 📌 Day 4: Multithreading & Concurrency
 
-Solve Producer-Consumer problem
+**Topics:**
+- `Thread` vs `Runnable`, `synchronized`, `volatile`
+- Thread pools (`ExecutorService`), `Future`
 
-Parallelize sum of 1M numbers
-Mnemonic: synchronized = 🔒 (one key per thread)
+**Coding:**
+- Solve Producer-Consumer problem
+- Parallelize sum of 1M numbers
 
-📌 Day 5: JVM Internals + Exception Handling
-Topics:
+**Mnemonic:**  
+`synchronized` = 🔒 (one key per thread)
 
-Heap/Stack, GC algorithms (G1, ZGC)
+---
 
-Checked vs Unchecked exceptions
-Coding:
+## 📌 Day 5: JVM Internals + Exception Handling
 
-Force OutOfMemoryError
+**Topics:**
+- Heap/Stack, GC algorithms (G1, ZGC)
+- Checked vs Unchecked exceptions
 
-Create custom exception for ATM withdrawal
-Feynman Task: Draw JVM memory on a napkin 🧠→📦(Heap), 🧵(Stack)
+**Coding:**
+- Force `OutOfMemoryError`
+- Create custom exception for ATM withdrawal
 
-📌 Day 6: I/O + Functional Programming
-Topics:
+**Feynman Task:**  
+Draw JVM memory on a napkin → 🧠 → 📦 (Heap), 🧵 (Stack)
 
-InputStream/Reader, NIO (Files, Paths)
+---
 
-Lambdas, Stream API (map, filter, reduce)
-Coding:
+## 📌 Day 6: I/O + Functional Programming
 
-Copy files using NIO
+**Topics:**
+- `InputStream` / `Reader`, NIO (`Files`, `Paths`)
+- Lambdas, Stream API (`map`, `filter`, `reduce`)
 
-Convert List<String> to uppercase using Streams
-Pro Tip: Streams = 🏭 Assembly line (data flows through operations)
+**Coding:**
+- Copy files using NIO
+- Convert `List<String>` to uppercase using Streams
 
-📌 Day 7: Advanced Topics + Design Patterns
-Topics:
+**Pro Tip:**  
+Streams = 🏭 Assembly line (data flows through operations)
 
-Optional, Records (Java 16), Sealed classes (Java 17)
+---
 
-Singleton (Thread-safe), Factory Pattern
-Coding:
+## 📌 Day 7: Advanced Topics + Design Patterns
 
-Build a config manager (Singleton)
+**Topics:**
+- `Optional`, Records (Java 16), Sealed classes (Java 17)
+- Singleton (Thread-safe), Factory Pattern
 
-Create a ShapeFactory
-Feynman Task: Explain Singleton to your cat 😸 (only one food bowl allowed)
+**Coding:**
+- Build a config manager (Singleton)
+- Create a `ShapeFactory`
 
-📌 Day 8: Grand Revision + DSA Bridge
-Morning:
+**Feynman Task:**  
+Explain Singleton to your cat 😸 → only one food bowl allowed
 
-Solve 3 problems:
+---
 
-Thread-safe LRU Cache
+## 📌 Day 8: Grand Revision + DSA Bridge
 
-File search using NIO
+**Morning: Solve 3 problems**
+- Thread-safe LRU Cache
+- File search using NIO
+- `HashMap` with collision handling
 
-HashMap with collision handling
-Afternoon:
+**DSA Readiness Test:**
+- Can you implement `ArrayList` from scratch? ✅  
+- Can you debug deadlocks? ✅
 
-Teach all concepts to a rubber duck 🦆
+---
 
-DSA Readiness Test:
-
-Can you implement ArrayList from scratch? ✅
-
-Can you debug deadlocks? ✅
-
+💡 *Use this as your personal Java growth map. Happy learning!*
