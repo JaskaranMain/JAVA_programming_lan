@@ -121,5 +121,3 @@ Explain Singleton to your cat 😸 → only one food bowl allowed
 - Can you debug deadlocks? ✅
 
 ---
-
-💡 *Use this as your personal Java growth map. Happy learning!*
