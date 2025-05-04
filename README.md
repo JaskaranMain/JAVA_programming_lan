@@ -3,17 +3,13 @@
 A focused 8-day journey to strengthen Java fundamentals, OOP, collections, concurrency, and prep for DSA.
 
 ---
-
 ## 📌 Day 1: OOP Foundations + Java Basics
-
 **Topics:**
 - Classes/Objects, Inheritance, Polymorphism (Method Overriding vs Overloading)
 - `static` vs `final`, Constructors, Encapsulation
-
 **Coding:**
 - Create a class hierarchy (e.g., `Animal → Cat/Dog`)
 - Implement method overriding
-
 **Feynman Task:**  
 Explain polymorphism using emojis → 🐕 → `Animal`, 🐈 → `Animal`
 
