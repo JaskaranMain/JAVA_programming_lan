@@ -7,6 +7,7 @@ A focused 8-day journey to strengthen Java fundamentals, OOP, collections, concu
 **Topics:**
 - Classes/Objects, Inheritance, Polymorphism (Method Overriding vs Overloading)
 - `static` vs `final`, Constructors, Encapsulation
+  
 **Coding:**
 - Create a class hierarchy (e.g., `Animal → Cat/Dog`)
 - Implement method overriding
@@ -16,7 +17,6 @@ Explain polymorphism using emojis → 🐕 → `Animal`, 🐈 → `Animal`
 ---
 
 ## 📌 Day 2: Collections Framework (List/Set/Queue)
-
 **Topics:**
 - `ArrayList` vs `LinkedList`, `HashSet` vs `TreeSet`, `PriorityQueue`
 - Iterators (`Iterator`, `ListIterator`)
@@ -31,7 +31,6 @@ Visualize collections as 📦 (`ArrayList`) vs 🚂 (`LinkedList`)
 ---
 
 ## 📌 Day 3: HashMap & Concurrent Collections
-
 **Topics:**
 - Hashing mechanism, collision handling, `LinkedHashMap`
 - `ConcurrentHashMap` vs `synchronizedMap`
