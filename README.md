@@ -45,7 +45,6 @@ Teach hashing using a library book analogy → ISBN = hashcode
 ---
 
 ## 📌 Day 4: Multithreading & Concurrency
-
 **Topics:**
 - `Thread` vs `Runnable`, `synchronized`, `volatile`
 - Thread pools (`ExecutorService`), `Future`
@@ -60,7 +59,6 @@ Teach hashing using a library book analogy → ISBN = hashcode
 ---
 
 ## 📌 Day 5: JVM Internals + Exception Handling
-
 **Topics:**
 - Heap/Stack, GC algorithms (G1, ZGC)
 - Checked vs Unchecked exceptions
@@ -75,7 +73,6 @@ Draw JVM memory on a napkin → 🧠 → 📦 (Heap), 🧵 (Stack)
 ---
 
 ## 📌 Day 6: I/O + Functional Programming
-
 **Topics:**
 - `InputStream` / `Reader`, NIO (`Files`, `Paths`)
 - Lambdas, Stream API (`map`, `filter`, `reduce`)
@@ -90,7 +87,6 @@ Streams = 🏭 Assembly line (data flows through operations)
 ---
 
 ## 📌 Day 7: Advanced Topics + Design Patterns
-
 **Topics:**
 - `Optional`, Records (Java 16), Sealed classes (Java 17)
 - Singleton (Thread-safe), Factory Pattern
@@ -105,7 +101,6 @@ Explain Singleton to your cat 😸 → only one food bowl allowed
 ---
 
 ## 📌 Day 8: Grand Revision + DSA Bridge
-
 **Morning: Solve 3 problems**
 - Thread-safe LRU Cache
 - File search using NIO
